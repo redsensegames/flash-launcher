@@ -1,2 +1,2 @@
-# flash-launcher
-Flash Launcher
+# Flash Launcher
+Flash Launcher for Windows
