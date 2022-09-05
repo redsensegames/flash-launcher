@@ -1,7 +1,10 @@
 # Flash Launcher
 You can run .swf files easily with Flash Launcher. Flash Launcher makes your Flash files more organized for you. You do not need Flash Player on your computer. All you have to do is use Flash Launcher.
 ## Screenshots
-<img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_1.png" alt="Screenshot1" width="49%"/> <img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_2.png" alt="Screenshot2" width="49%"/> <img src="hhttps://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_3.png" alt="Screenshot3" width="49%"/> <img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_4.png" alt="Screenshot4" width="49%"/>
+<img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_1.png" alt="Screenshot1" width="49%"/> 
+<img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_2.png" alt="Screenshot2" width="49%"/> 
+<img src="hhttps://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_3.png" alt="Screenshot3" width="49%"/> 
+<img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_4.png" alt="Screenshot4" width="49%"/>
 ## Downloads
 N/A(In preparation...)
 ## To do list
