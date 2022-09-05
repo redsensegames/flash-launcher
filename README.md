@@ -3,7 +3,9 @@ You can run .swf files easily with Flash Launcher. Flash Launcher makes your Fla
 ## Screenshots
 <img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_1.png" alt="Screenshot1" width="49%"/> <img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_2.png" alt="Screenshot2" width="49%"/> <img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_3.png" alt="Screenshot3" width="49%"/> <img src="https://raw.githubusercontent.com/redsensegames/flash-launcher/main/Screenshots/Screenshot_4.png" alt="Screenshot4" width="49%"/>
 ## Downloads
-N/A(In preparation...)
+[![Download Windows x64 Setup](https://img.shields.io/badge/Download-Windows%20x64-brightgreen )](https://github.com/redsensegames/flash-launcher/releases/download/v1.2.0.0/Flash_Launcher_x64_Installer.zip)
+
+[![Download Windows x86 Setup](https://img.shields.io/badge/Download-Windows%20x86-brightgreen )](https://github.com/redsensegames/flash-launcher/releases/download/v1.2.0.0/Flash_Launcher_x86_Installer.zip)
 ## To do list
 
  - [x] Windows
